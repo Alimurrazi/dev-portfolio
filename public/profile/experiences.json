@@ -1,33 +1,33 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Software Developer",
+            "subtitle": "Cefalo Bangladesh Ltd",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Contribute as a full-stack developer to automate cloud-related processes, utilizing both React and .NET Core.",
+                "Contribute to Building a deployment workflow based on Azure pipeline and PowerShell scripts that execute Azure storage table operations and maintain a log table that replaces manual interactions in the database.",
+                "Develop 5+ PowerShell scripts that execute various Azure operations, enhancing efficiency and reliability.",
+                "Write unit tests in PowerShell, .NET Core, and React, utilizing tools such as Pester, Xunit, and Jest, respectively. This ensured the quality and reliability of software components.",
+                "Contribute to Building and deploying 500+ built-in and custom Azure policies to enforce organizational standards and assess compliance at scale.",
+                "Contribute to the development of an integration and synchronization workflow system that automates the deployment and assignment of Azure policies while also synchronizing with policies from other tenants, ensuring consistent policy enforcement across the organization."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "08/2022 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Software Developer",
+            "subtitle": "SELISE Digital Platforms",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Contribute to Developing reusable Frontend components based on Figma designs using Typescript, Angular, Angularjs, and React.",
+                "Contribute to the implementation of a versatile chat functionality while managing over 15 distinct roles within the Frontend domain.",
+                "Contribute to developing a self-ordering kiosk system focusing on the robust menu configuration manager.",
+                "Write Frontend unit test with Jest.",
+                "Develop financial calculation, role-based user search API in .NET Core framework, structured around event-driven based microservice architecture.",
+                "Execute effective data migrations within NoSQL databases to ensure data integrity and fortify security measures.",
+                "Successfully conceptualized and implemented a POC for running Angular applications on Tizen OS-integrated kiosks, demonstrating its applicability to more than 5 distinct projects."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "10/2018 – 07/2022"
         }
     ]
 }

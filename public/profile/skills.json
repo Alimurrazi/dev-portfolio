@@ -4,34 +4,21 @@
      
             "title": "Languages & Databases",
             "items" : [
-     
-                {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/CSharp.png",
+                    "title": "CSharp"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/Angular.png",
+                    "title": "Angular"
                 },
                 {
                     "icon": "images/skills/react.png",
@@ -40,16 +27,34 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/NET_Core.png",
+                    "title": "Net core"
+                }
+            ]
+        },
+        {
+            "title": "Cloud",
+            "items" : [
+                {
+                    "icon": "images/skills/Azure.png",
+                    "title": "Azure"
+                }
+            ]
+        },
+        {
+            "title": "Database",
+            "items" : [
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "Mongodb"
                 }
             ]
         },
         {
             "title" : "Tools & Platforms",
             "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
