@@ -1,0 +1,21 @@
+{
+    "education":[
+        {
+            "title": "2013 - 2018",
+            "cardTitle": "B.Sc., Computer science and Engineering",
+            "cardSubtitle":"Shahjalal University of Science and Technology (SUST), Sylhet"
+        },
+        {
+            "title": "2011 - 2013",
+            "cardTitle": "HSC",
+            "cardSubtitle":"Abdul Kadir Mollah City College, Narsingdi",
+            "cardDetailedText": "GPA - A+"
+        },
+        {
+            "title": "2001 - 2011",
+            "cardTitle": "SSC",
+            "cardSubtitle":"Urea Sar Karkhana School & College, Narsingdi",
+            "cardDetailedText": "GPA - A+"
+        }
+    ]
+}

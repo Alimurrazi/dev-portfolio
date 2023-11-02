@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/alimur-razi-rana-800b35133/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Alimurrazi"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:alimurrazi570@gmail.com"
+        }
+    ]
+}

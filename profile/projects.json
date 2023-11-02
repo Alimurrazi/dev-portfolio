@@ -1,0 +1,45 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/goodreads_book_list.png",
+            "title": "Goodreads Book List",
+            "bodyText": "This is a full-stack web app with React, Express, and Mongoose. There are some APIs that scrape book-related meta-data from https://www.goodreads.com/ and populate data into https://cloud.mongodb.com. In frontend, the book list is shown category-wise.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Alimurrazi/Goodreads-Book-List"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://alimurrazi.github.io/Goodreads-Book-List/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Express.js",
+                "Mongodb"
+            ]
+        },
+        {
+            "image" : "images/projects/movie_catalog.png",
+            "title": "Movie Catalog App",
+            "bodyText": "This website is a movie catalog built on data from The Movie Database (TMDB). Users can explore movies by category and navigate within categories. The movie details page provides in-depth information, including cast, trailers, and recommendations.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Alimurrazi/movie-mania"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://alimurrazi.github.io/movie-mania/movies"
+                }
+            ],
+            "tags" : [
+                "Angular",
+                "TypeScript",
+                "Redux",
+                "Material-UI"
+            ]
+        }
+    ]
+}
