@@ -3,7 +3,7 @@
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/mayankagarwal09/dev-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
+  <img src="https://raw.githubusercontent.com/Alimurrazi/dev-portfolio/master/public/images/webpage_sample.png" alt="Dev Portfolio" />
   <br>
 </h2>
 
