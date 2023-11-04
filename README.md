@@ -1,4 +1,4 @@
-# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/mayankagarwal09/dev-portfolio?color=blue)](https://github.com/mayankagarwal09/dev-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankagarwal09.dev-portfolio&color=blue)
+# Dev Portfolio
 
 ## A minimal portfolio template for Developers!
 
@@ -17,13 +17,7 @@
 
 ## Demo
 
-To view the demo: **[click here](https://dev-portfolio-mayankagarwal09.vercel.app)**
-
-## Why do you need a portfolio? ☝️
-
-- Professional way to showcase your work
-- Increases your visibility and online presence
-- better chance of getting work opportunity
+To view the demo: **[click here](https://alimurrazi.github.io/dev-portfolio/#/)**
 
 ---
 
@@ -539,22 +533,4 @@ Go to `public/index.html`. Change *title* and *logo* if you want to customize it
 ## Deployment 📦
 
 Once you finish your setup. You need to put your website online!
-
-I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
-
-## Notable Portfolios made using this template
-
-- [Mayank Agarwal](https://mayankagarwal.me)
-
-## Authors
-
-- **Mayank Agarwal** - [https://github.com/mayankagarwal09](https://github.com/mayankagarwal09)
-
-## Support
-
-If you find a bug, feel free to [open an issue](https://github.com/mayankagarwal09/dev-portfolio/issues) in this repository.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
